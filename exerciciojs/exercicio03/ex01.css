@@ -1,0 +1,31 @@
+body{
+    background: purple;
+    font: normal 15pt Arial;
+    color: white;
+}
+
+header{
+    text-align: center;
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    color: black;
+    box-shadow: 5px 5px 10px 5px rgb(41, 41, 41);
+}
+
+footer{
+    text-align: center;
+    font-style: italic;
+}
+
+img{
+    height: 250px;
+    width: 250px;
+    border-radius: 100%;
+    padding-top: 10px;
+}

@@ -1,0 +1,36 @@
+body{
+    background: purple;
+    font: normal 15pt Arial;
+    color: white;
+}
+
+header{
+    text-align: center;
+}
+
+section{
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 15px;
+    width: 600px;
+    margin: auto;
+    color: black;
+    box-shadow: 6px 6px 11px 6px rgb(36, 36, 36);
+}
+
+div {
+    text-align: center;
+    padding: 7px;
+}
+
+footer{
+    text-align: center;
+    font-style: italic;
+    padding-top: 100px;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+    border-radius: 550px;
+}
